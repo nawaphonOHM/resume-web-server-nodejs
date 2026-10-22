@@ -20,7 +20,7 @@
     "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "eslint": "^9.0.0",
+    "eslint": "^10.13.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-sonarjs": "^4.0.0",
     "eslint-plugin-unicorn": "^65.0.0",
