@@ -23,7 +23,7 @@
     "eslint": "^9.0.0",
     "eslint-plugin-import": "^2.0.0",
     "eslint-plugin-sonarjs": "^4.0.0",
-    "eslint-plugin-unicorn": "^65.0.0",
+    "eslint-plugin-unicorn": "^78.0.0",
     "prettier": "^3.0.0",
     "tsx": "^4.0.0",
     "typescript": "^6.0.0",
